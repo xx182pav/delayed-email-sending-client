@@ -20,4 +20,4 @@ def last_tasks():
     return render_template("last_emails_list.html", emails=emails)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
