@@ -1,0 +1,2 @@
+FLASK_ENV=development
+FLASK_APP=delayed_email_sending_client
